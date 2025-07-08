@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+.mat-select-panel {
+  background-color: white !important;
+  color: black;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}

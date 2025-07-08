@@ -1,0 +1,85 @@
+<!--
+<div class="exercise-container" *ngIf="sentences.length">
+  <h2>Deine Übung</h2>
+
+  <div *ngFor="let sentence of sentences; let i = index" class="exercise-item">
+    <p>{{ sentence }}</p>
+    <mat-form-field appearance="outline" class="full-width">
+      <mat-label>Deine Antwort</mat-label>
+      <input matInput [(ngModel)]="answers[i]" />
+    </mat-form-field>
+    <button
+      mat-button
+      color="accent"
+      (click)="getHint(i)"
+      [disabled]="hintRequested[i]"
+    >
+      💡 Hilfe
+    </button>
+
+    <p class="hint" *ngIf="hints[i]">{{ hints[i] }}</p>
+
+    <div *ngIf="feedbacks && [i]" class="feedback">
+      <mat-icon color="primary">info</mat-icon>
+      {{ feedbacks[i] }}
+    </div>
+  </div>
+
+  <button mat-raised-button color="primary" (click)="submitAnswers()">
+    Antworten absenden
+  </button>
+</div>
+
+<div *ngIf="!sentences.length">
+  <p>Keine Übungsdaten verfügbar.</p>
+</div>
+-->
+
+<div class="container">
+  <h2>Generierte Lückensätze</h2>
+
+  <div *ngFor="let sentence of sentences; let i = index" class="exercise-block">
+    <p><strong>Aufgabe {{ i + 1 }}:</strong> {{ sentence }}</p>
+
+    <mat-form-field class="full-width">
+      <mat-label>Deine Antwort</mat-label>
+      <input matInput [(ngModel)]="answers[i]" placeholder="Antwort eingeben" />
+    </mat-form-field>
+
+    <div class="actions">
+      <button
+        mat-stroked-button
+        color="accent"
+        (click)="getHint(i)"
+        [disabled]="hints[i]"
+        class="hint-button"
+      >
+        Hilfe
+      </button>
+    </div>
+
+    <!-- Anzeige des Hints -->
+    <div *ngIf="hints[i]" class="hint">{{ hints[i] }}</div>
+
+    <!-- Anzeige des Feedbacks -->
+    <div *ngIf="feedbacks && feedbacks[i]" class="feedback">
+      <mat-icon color="primary"></mat-icon>
+      {{ feedbacks[i] }}
+    </div>
+
+    <mat-divider class="divider"></mat-divider>
+  </div>
+
+  <button
+    mat-raised-button
+    class="submit-button"
+    color="primary"
+    (click)="submitAnswers()"
+  >
+    Antworten abschicken
+  </button>
+</div>
+
+<div *ngIf="!sentences.length">
+  <p>Keine Übungsdaten verfügbar.</p>
+</div>

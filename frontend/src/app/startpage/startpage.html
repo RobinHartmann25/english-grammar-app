@@ -1,0 +1,51 @@
+<div class="container">
+  <h2>Englisch-Übung erstellen</h2>
+
+  <mat-form-field appearance="fill" class="full-width">
+    <mat-label>Thema</mat-label>
+    <input matInput placeholder="z. B. Reisen" [(ngModel)]="topic" required />
+  </mat-form-field>
+
+  <div class="select-row">
+    <mat-form-field appearance="fill" class="full-width select-field">
+      <mat-label>Zeitform</mat-label>
+      <mat-select [(ngModel)]="grammar" name="grammar" required>
+        <mat-option *ngFor="let tense of grammarTenses" [value]="tense">
+          {{ tense }}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="fill" class="full-width select-field">
+      <mat-label>Englisch-Niveau</mat-label>
+      <mat-select
+        [(ngModel)]="level"
+        required
+        (selectionChange)="onLevelChange($event)"
+      >
+        <mat-option *ngFor="let lvl of levels" [value]="lvl"
+          >{{ lvl }}</mat-option
+        >
+      </mat-select>
+    </mat-form-field>
+  </div>
+
+  <div class="button-wrapper" *ngIf="showSubmitButton">
+    <button
+      mat-raised-button
+      color="primary"
+      class="submit-btn"
+      (click)="submit()"
+      *ngIf="level"
+      class="submit-btn"
+      [disabled]="!allFieldsFilled"
+    >
+      Absenden
+    </button>
+  </div>
+
+  <p class="info" *ngIf="submitted">
+    Gewähltes Thema: <strong>{{ topic }}</strong> – Niveau:
+    <strong>{{ level }}</strong>
+  </p>
+</div>

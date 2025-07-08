@@ -1,0 +1,125 @@
+/* Startpage: Modern & konsistent mit exercisepage */
+
+.container {
+  max-width: 480px;
+  margin: 100px auto;
+  padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  text-align: center;
+
+ 
+}
+
+.full-width {
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+/* Form Controls (Dropdowns / Inputs) */
+mat-form-field {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.mat-form-field-wrapper {
+  padding: 0 12px;
+}
+
+/* Button Container */
+.button-wrapper {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+}
+
+/* Button Style – wie hint/submit auf exercisepage */
+.submit-btn {
+  background-color: #435aa0;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(67, 90, 160, 0.4);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.submit-btn:hover {
+  background-color: #3b4f89;
+  color: white;
+  transform: scale(1.03);
+  box-shadow: 0 6px 16px rgba(59, 79, 137, 0.5);
+}
+
+/* Info-Text */
+.info {
+  margin-top: 2rem;
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Select Panel Styling */
+.mat-select-panel {
+  background-color: #fff !important;
+  z-index: 1000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mat-select-panel .mat-option {
+  background-color: #fff;
+  border-bottom: 1px solid #eee;
+}
+
+.mat-select-panel .mat-option:last-child {
+  border-bottom: none;
+}
+
+
+
+/* Fix: mat-select Dropdown soll nicht durchsichtig sein */
+::ng-deep .mat-select-panel {
+  background-color: #fff !important;
+  opacity: 1 !important;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1) !important;
+  border-radius: 8px !important;
+  border: 1px solid #ddd !important;
+  backdrop-filter: none !important;
+}
+
+::ng-deep .mat-option {
+  background-color: #fff !important;
+  color: #333 !important;
+  font-weight: 500;
+}
+
+::ng-deep .mat-option:hover {
+  background-color: #f0f4ff !important;
+}
+
+/* Optional: Fokus-Umrandung bei geöffnetem Dropdown unterdrücken */
+::ng-deep .mat-select-focused .mat-select-trigger {
+  box-shadow: none !important;
+}
+
+.select-row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.select-field {
+  flex: 1 1 45%;
+  min-width: 200px;
+}
+
