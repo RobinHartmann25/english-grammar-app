@@ -1,1 +1,6 @@
 Die Dateien in diesem Ordner beinhalten die gesamten erhobenen Daten des Prototypen aus der Langen Nacht der Wissenschaft.
+
+Diese Dateien bestehen aus zwei Excel-Tabellen sowie drei JSON-Dateien, welche die gespeicherten Ausgaben des Protoypen beinhalten.
+Dazu ist anzumerken, dass darin jeweils alle gespeicherten Inhalte zu finden sind. Somit ebenso die vor der LNdW angefallene Test-Daten.
+Aufgrund der jeweils beinhalteten Zeitstempel ist eine Zuordnung zur LNdW problemlos möglich. Diese Dateien sollen jedoch die Gesamtheit aufzeigen,
+weshalb alle Log-Daten darin erhalten geblieben sind.
