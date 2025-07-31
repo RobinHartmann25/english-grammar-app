@@ -1,4 +1,4 @@
-#Diese Datei wurde mit Unterstützung ChatGPT erstellt
+#Diese Datei wurde mit Unterstützung von ChatGPT erstellt, da keine Kenntnisse in Python vorher vorlagen.
 from datetime import datetime
 from flask import Flask, request, jsonify
 from flask_cors import CORS
