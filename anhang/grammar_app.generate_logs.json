@@ -1,0 +1,437 @@
+[{
+  "_id": {
+    "$oid": "685f0ef8429743919c600d21"
+  },
+  "timestamp": {
+    "$date": "2025-06-27T23:36:56.946Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Simple Past",
+    "level": "B2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Simple Past\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "Last summer, we _______ to Spain for our holiday.  ",
+    "She _______ her suitcase before the flight yesterday.  ",
+    "They _______ a lot of photos during their trip to Paris.  ",
+    "He _______ the train at 8 o’clock and arrived on time.  ",
+    "We _______ new friends while we stayed at the hostel."
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f0fcb429743919c600d22"
+  },
+  "timestamp": {
+    "$date": "2025-06-27T23:40:27.035Z"
+  },
+  "input": {
+    "topic": "Fußball",
+    "grammar": "Simple Past",
+    "level": "C2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Simple Past\" and be about the topic: \"Fußball\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "Yesterday, the team _____ a very exciting match.  ",
+    "He _____ the ball quickly and scored a goal.  ",
+    "We _____ to the stadium last weekend to watch the game.  ",
+    "The players _____ their best during the final minutes.  ",
+    "She _____ a great pass that helped her team win."
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f1342b5fd8782a5be2873"
+  },
+  "timestamp": {
+    "$date": "2025-06-27T23:55:14.235Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Future 1",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Future 1\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "I ___ visit my grandparents in Spain next summer.  ",
+    "She ___ book the flight tickets tomorrow morning.  ",
+    "We ___ stay at a hotel near the beach during our holiday.  ",
+    "They ___ travel to Paris by train next week.  ",
+    "He ___ pack his suitcase before the trip starts."
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f17b9c6cd6d531e0cae2f"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:14:17.284Z"
+  },
+  "input": {
+    "topic": "",
+    "grammar": "",
+    "level": "B1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"\" and be about the topic: \"\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "I’m happy to help! Could you please provide the specific grammar point and topic you want the sentences to focus on?"
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f18e9c6cd6d531e0cae30"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:19:21.618Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Past Continuous",
+    "level": "B1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Continuous\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "I ______________ (watch) the sunset while we were traveling to the beach.  ",
+    "She ______________ (pack) her suitcase when the phone rang.  ",
+    "They ______________ (drive) through the mountains during the storm last night.  ",
+    "We ______________ (wait) for the bus at the station when it started to rain.  ",
+    "He ______________ (take) pictures of the old city while his friends were shopping."
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f1927c6cd6d531e0cae32"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:20:23.366Z"
+  },
+  "input": {
+    "topic": "Fußball",
+    "grammar": "Past Perfect",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect\" and be about the topic: \"Fußball\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "Before the match started, the team _ had already practiced _ for several weeks.  ",
+    "He was tired because he _ had played _ two games earlier that day.  ",
+    "They celebrated because they _ had won _ the championship the previous year.  ",
+    "The coach was happy since the players _ had improved _ their skills a lot.  ",
+    "By the time the referee arrived, the players _ had stopped _ the game."
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f19d12ae19ff436bc62b5"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:23:13.567Z"
+  },
+  "input": {
+    "topic": "Formel 1",
+    "grammar": "Present Perfect Continuous",
+    "level": "B2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Present Perfect Continuous\" and be about the topic: \"Formel 1\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "The drivers _______ hard to prepare for the next race.",
+    "Our team _______ their car's speed all season.",
+    "He _______ every Formula 1 race this year.",
+    "They _______ new tires to find the best grip.",
+    "She _______ the championship closely since the start."
+  ]
+},
+{
+  "_id": {
+    "$oid": "685f1acf6fa4aad9bce401aa"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:27:27.948Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Past Simple",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Simple\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "Last summer, I _______ my grandparents in Spain.",
+    "We _______ by train to the mountains last weekend.",
+    "She _______ a hotel near the beach for her vacation.",
+    "They _______ the old city during their trip to Italy.",
+    "He _______ souvenirs at the market when he was in France."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68601d44228e688bcc342fba"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T18:50:12.093Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Past Perfect",
+    "level": "B2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "By the time we arrived at the airport, the plane __________ already left.",
+    "She __________ packed her suitcase before the taxi came.",
+    "They __________ visited three countries before the trip ended.",
+    "He __________ booked the hotel when I called him.",
+    "We __________ planned our route carefully before starting the journey."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68602117228e688bcc342fbc"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:06:31.140Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Past Perfect Continuous",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect Continuous\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "She _______ _______ for hours before the train finally arrived.",
+    "They _______ _______ all morning to find the perfect hotel.",
+    "We _______ _______ around the city before it started to rain.",
+    "He _______ _______ for days when he realized he lost his passport.",
+    "The tourists _______ _______ to see the famous museum before it closed."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68602611228e688bcc342fc9"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:27:45.325Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Present Perfect Continuous",
+    "level": "B1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Present Perfect Continuous\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "I have been _______ around Europe for two weeks.",
+    "She has been _______ her suitcase since this morning.",
+    "They have been _______ at the airport for three hours.",
+    "We have been _______ new cities during our vacation.",
+    "He has been _______ about different cultures while traveling."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68602800228e688bcc342fd4"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:36:00.950Z"
+  },
+  "input": {
+    "topic": "programmieren",
+    "grammar": "Past Perfect",
+    "level": "B2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect\" and be about the topic: \"programmieren\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "She _______ the coding project before the deadline.",
+    "They _______ the program thoroughly before presenting it.",
+    "I _______ the basics of programming before starting the course.",
+    "By the time the class began, he _______ the first script.",
+    "We _______ the error before the teacher asked for our work."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68602ca2228e688bcc342fdb"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:55:46.344Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Past Simple",
+    "level": "B1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Simple\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "Last summer, I _______ Paris with my family.",
+    "We _______ a train to the mountains last weekend.",
+    "She _______ in a small hotel near the beach.",
+    "They _______ souvenirs during their trip to Italy.",
+    "He _______ by plane for the first time last year."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68602e1a228e688bcc342fe2"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:02:02.475Z"
+  },
+  "input": {
+    "topic": "urlaub",
+    "grammar": "Past Perfect",
+    "level": "B2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the B2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect\" and be about the topic: \"urlaub\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "By the time we arrived at the hotel, the sun _______.",
+    "She _______ her suitcase before the taxi came.",
+    "They _______ their flights two months before the holiday started.",
+    "He _______ the beach until last summer.",
+    "We _______ the trip carefully before going to the airport."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68602fec228e688bcc342fe3"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:09:48.491Z"
+  },
+  "input": {
+    "topic": "League of Legends",
+    "grammar": "Past Simple",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Simple\" and be about the topic: \"League of Legends\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "Last night, I _______ a match in League of Legends with my friends.",
+    "She _______ her first game as a new champion last weekend.",
+    "They _______ a League of Legends tournament on TV yesterday.",
+    "He _______ how to use the new update after he _______ the patch notes.",
+    "We _______ a team and _______ in a friendly League of Legends event last month."
+  ]
+},
+{
+  "_id": {
+    "$oid": "6860335b228e688bcc342fef"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:24:27.000Z"
+  },
+  "input": {
+    "topic": "Pdiddy",
+    "grammar": "Past Perfect",
+    "level": "C2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect\" and be about the topic: \"Pdiddy\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "Before Pdiddy released his new album, he ___ already signed a major record deal.",
+    "Pdiddy ___ finished producing several hit songs before he became famous.",
+    "By the time the concert started, Pdiddy ___ met all the artists backstage.",
+    "Pdiddy ___ never performed live until he was invited to a big music festival.",
+    "Before the interview, Pdiddy ___ prepared answers for all the questions."
+  ]
+},
+{
+  "_id": {
+    "$oid": "686034fa228e688bcc342ff7"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:31:22.957Z"
+  },
+  "input": {
+    "topic": "Essen",
+    "grammar": "Past Perfect Continuous",
+    "level": "C2"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C2 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect Continuous\" and be about the topic: \"Essen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "She _______ ____ cooking dinner for two hours before her guests arrived.",
+    "They _______ ____ eating when the phone suddenly rang.",
+    "He _______ ____ trying new recipes all afternoon before he found the perfect one.",
+    "We _______ ____ waiting for the food to be ready for over an hour.",
+    "I _______ ____ tasting different dishes before I chose my favorite."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68603622228e688bcc343003"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:36:18.790Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Going to Future",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Going to Future\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "I am going to visit my grandparents next summer during my trip.",
+    "She is going to book a flight to Paris for her vacation.",
+    "They are going to stay in a hotel near the beach this weekend.",
+    "We are going to pack our bags early before the journey.",
+    "He is going to take many photos while traveling in Italy."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68603643228e688bcc343004"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:36:51.968Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Going to Future",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Going to Future\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "I am ____ to visit my family in Spain next summer.",
+    "They are ____ to travel by train to the mountains this weekend.",
+    "She is ____ to book a hotel near the beach for her vacation.",
+    "We are ____ to explore the city by bike during our trip.",
+    "He is ____ to pack his suitcase tonight before the flight."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68603695228e688bcc343019"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:38:13.889Z"
+  },
+  "input": {
+    "topic": "Reisen",
+    "grammar": "Past Continuous",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Continuous\" and be about the topic: \"Reisen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "I was _______________ my suitcase when the phone rang.",
+    "They were _______________ to the airport when it started raining.",
+    "She was _______________ a map to find the hotel.",
+    "We were _______________ photos of the beautiful beach all afternoon.",
+    "He was _______________ on the train while listening to music."
+  ]
+},
+{
+  "_id": {
+    "$oid": "68603727228e688bcc34301f"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:40:39.199Z"
+  },
+  "input": {
+    "topic": "Einkaufen",
+    "grammar": "Past Perfect Continuous",
+    "level": "C1"
+  },
+  "openai_prompt": "\n    You are a helpful English grammar teacher.\n\n    Please create exactly 5 grammatically correct and error-free English gap-fill sentences for learners at the C1 proficiency level (A1, A2, or B1).\n    The sentences should focus on the grammar point: \"Past Perfect Continuous\" and be about the topic: \"Einkaufen\".\n\n    Requirements:\n    - Use simple and appropriate vocabulary for the specified level.\n    - Each sentence should contain exactly one blank, represented by underscores (_) where the learner has to fill in the missing word or phrase.\n    - Do not provide the answers or solutions.\n    - Keep sentences clear, concise, and suitable for short learning sessions.\n    - Make sure all sentences strictly follow the grammar rules and are suitable for learners at this level.\n    - Avoid overly complex structures or ambiguous wording.\n    - The sentences should encourage learning and practice of the specified grammar point.\n\n    Respond only with the 5 sentences, each on a new line, without additional explanation or numbering.\n    ",
+  "openai_response": [
+    "She _______ shopping for an hour before the store closed.",
+    "They _______ looking for fresh vegetables when it started to rain.",
+    "I _______ trying to find a gift for my friend all morning.",
+    "We _______ waiting in line to pay when the cashier called for help.",
+    "He _______ searching for the best deals before he made a decision."
+  ]
+}]

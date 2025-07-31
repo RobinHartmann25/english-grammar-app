@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "685f1107429743919c600d23"
+  },
+  "timestamp": {
+    "$date": "2025-06-27T23:45:43.749Z"
+  },
+  "input_sentence": "Yesterday, the team _____ a very exciting match.  ",
+  "openai_prompt": "Erstelle eine hilfreiche, aber nicht die Lösung enthaltende Erklärung. Diese Hilfestellung soll das gesucht Verb nicht enthalten. Ein Hinweis auf unregelmäige Verben, sofern notwendig, ist jedoch erlaubt. Der genannte Lückentext ist folgender:\n\n\"Yesterday, the team _____ a very exciting match.  \"\n\nHinweis:",
+  "openai_response": "Denke daran, dass es sich um die Vergangenheitsform eines Verbs handelt, das beschreibt, was das Team mit dem Spiel gemacht hat. Im Englischen wird die einfache Vergangenheit oft durch das Anhängen von „-ed“ an den Infinitiv gebildet, aber dieses Verb gehört zu den unregelmäßigen Verben und verändert seine Form anders. Überlege, welche Form des Verbs in diesem Satz am besten passt, um auszudrücken, dass das Team das Spiel"
+},
+{
+  "_id": {
+    "$oid": "685f135db5fd8782a5be2874"
+  },
+  "timestamp": {
+    "$date": "2025-06-27T23:55:41.569Z"
+  },
+  "input_sentence": "He ___ pack his suitcase before the trip starts.",
+  "openai_prompt": "Erstelle eine hilfreiche, aber nicht die Lösung enthaltende Erklärung. Diese Hilfestellung soll das gesucht Verb nicht enthalten. Ein Hinweis auf unregelmäige Verben, sofern notwendig, ist jedoch erlaubt. Der genannte Lückentext ist folgender:\n\n\"He ___ pack his suitcase before the trip starts.\"\n\nHinweis:",
+  "openai_response": "Achte darauf, dass das Verb im Satz in der Vergangenheit stehen muss. Es handelt sich um ein unregelmäßiges Verb, dessen zweite Form nicht einfach durch das Anhängen von \"-ed\" gebildet wird. Überlege, wie man im Englischen ausdrückt, dass jemand etwas bereits erledigt hat, bevor ein anderes Ereignis eintritt. Ein typischer Hinweis darauf ist die Verwendung von \"had\" in Verbindung mit dem Verb in seiner dritten Form (Past Participle)."
+},
+{
+  "_id": {
+    "$oid": "685f18ffc6cd6d531e0cae31"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:19:43.922Z"
+  },
+  "input_sentence": "I ______________ (watch) the sunset while we were traveling to the beach.  ",
+  "openai_prompt": "Erstelle eine hilfreiche, aber nicht die Lösung enthaltende Erklärung. Diese Hilfestellung soll das gesucht Verb nicht enthalten. Ein Hinweis auf unregelmäige Verben, sofern notwendig, ist jedoch erlaubt. Der genannte Lückentext ist folgender:\n\n\"I ______________ (watch) the sunset while we were traveling to the beach.  \"\n\nHinweis:",
+  "openai_response": "Achte darauf, welche Zeitform im Satz verwendet wird. Das Verb steht im Past Progressive (Verlaufsform der Vergangenheit), das aus zwei Teilen besteht: einer Form von „to be“ im Simple Past und dem Verb in der -ing-Form. Überlege, wie du „watch“ in dieser Zeitform richtig bildest. Beachte auch, dass „to be“ ein unregelmäßiges Verb ist und im Simple Past je nach Person unterschiedlich lautet."
+},
+{
+  "_id": {
+    "$oid": "685f19d82ae19ff436bc62b6"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:23:20.308Z"
+  },
+  "input_sentence": "The drivers _______ hard to prepare for the next race.",
+  "openai_prompt": "Erstelle eine hilfreiche, aber nicht die Lösung enthaltende Erklärung. Diese Hilfestellung soll das gesucht Verb nicht enthalten. Ein Hinweis auf unregelmäige Verben, sofern notwendig, ist jedoch erlaubt. Der genannte Lückentext ist folgender:\n\n\"The drivers _______ hard to prepare for the next race.\"\n\nHinweis:",
+  "openai_response": "Überlege, welches Wort ausdrückt, dass die Fahrer eine Anstrengung unternehmen oder sich sehr bemühen. Es beschreibt eine Tätigkeit in der Vergangenheit, daher brauchst du die korrekte Vergangenheitsform. Denke daran, dass es sich um ein unregelmäßiges Verb handeln könnte, dessen Form nicht einfach durch Anhängen von \"-ed\" gebildet wird. Schau dir auch an, ob das Verb gut zum Kontext des Vorbereitens passt."
+},
+{
+  "_id": {
+    "$oid": "685f1ad86fa4aad9bce401ab"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:27:36.646Z"
+  },
+  "input_sentence": "Last summer, I _______ my grandparents in Spain.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"Last summer, I _______ my grandparents in Spain.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, welche Zeitform für eine Handlung im letzten Sommer passend ist. Achte darauf, dass das Verb im Simple Past steht und möglicherweise unregelmäßig konjugiert wird."
+},
+{
+  "_id": {
+    "$oid": "685f1b026fa4aad9bce401ac"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T00:28:18.108Z"
+  },
+  "input_sentence": "Last summer, I _______ my grandparents in Spain.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"Last summer, I _______ my grandparents in Spain.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, welche Zeitform für eine Handlung im vergangenen Sommer passend ist. Achte darauf, dass das Verb im Simple Past steht; falls es unregelmäßig ist, ändert sich die Form oft komplett."
+},
+{
+  "_id": {
+    "$oid": "68601d49228e688bcc342fbb"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T18:50:17.691Z"
+  },
+  "input_sentence": "By the time we arrived at the airport, the plane __________ already left.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"By the time we arrived at the airport, the plane __________ already left.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, welche Zeitform benutzt wird, wenn eine Handlung vor einer anderen in der Vergangenheit abgeschlossen ist. Achte darauf, dass das Verb im Past Perfect stehen muss; das Hauptverb ist unregelmäßig und benötigt die korrekte Form im Partizip Perfekt."
+},
+{
+  "_id": {
+    "$oid": "6860212c228e688bcc342fbd"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:06:52.026Z"
+  },
+  "input_sentence": "She _______ _______ for hours before the train finally arrived.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"She _______ _______ for hours before the train finally arrived.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, welche Zeitform ausdrückt, dass eine Handlung über einen längeren Zeitraum in der Vergangenheit andauerte. Achte darauf, ob ein unregelmäßiges Verb im Partizip Perfekt verwendet werden muss."
+},
+{
+  "_id": {
+    "$oid": "6860212c228e688bcc342fbe"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:06:52.336Z"
+  },
+  "input_sentence": "She _______ _______ for hours before the train finally arrived.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"She _______ _______ for hours before the train finally arrived.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, welche Zeitform ausdrückt, dass eine Handlung über einen längeren Zeitraum in der Vergangenheit andauerte. Achte darauf, ob ein Hilfsverb benötigt wird und ob das Verb unregelmäßig ist."
+},
+{
+  "_id": {
+    "$oid": "68602818228e688bcc342fd5"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:36:24.395Z"
+  },
+  "input_sentence": "They _______ the program thoroughly before presenting it.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"They _______ the program thoroughly before presenting it.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, ob die Handlung in der Vergangenheit, Gegenwart oder Zukunft stattfindet. Achte auf die richtige Verbform und denke daran, dass bei unregelmäßigen Verben die Vergangenheitsform oft nicht einfach mit \"-ed\" gebildet wird."
+},
+{
+  "_id": {
+    "$oid": "68602cde228e688bcc342fdc"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T19:56:46.248Z"
+  },
+  "input_sentence": "She _______ in a small hotel near the beach.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"She _______ in a small hotel near the beach.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, welche Zeitform hier am besten passt (Gegenwart oder Vergangenheit). Achte darauf, ob das Verb regelmäßig oder unregelmäßig konjugiert wird."
+},
+{
+  "_id": {
+    "$oid": "68603059228e688bcc342fe4"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:11:37.344Z"
+  },
+  "input_sentence": "We _______ a team and _______ in a friendly League of Legends event last month.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"We _______ a team and _______ in a friendly League of Legends event last month.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Beide Lücken erfordern die Vergangenheitsform eines Verbs. Achte darauf, ob das Verb regelmäßig oder unregelmäßig ist, da sich die Bildung der Vergangenheitsform unterscheidet."
+},
+{
+  "_id": {
+    "$oid": "6860336a228e688bcc342ff0"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:24:42.051Z"
+  },
+  "input_sentence": "Before Pdiddy released his new album, he ___ already signed a major record deal.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"Before Pdiddy released his new album, he ___ already signed a major record deal.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Achte auf die Zeitform, die eine Handlung beschreibt, die vor einer anderen in der Vergangenheit abgeschlossen war. Verwende das Hilfsverb für das Plusquamperfekt zusammen mit dem Partizip Perfekt eines unregelmäßigen Verbs."
+},
+{
+  "_id": {
+    "$oid": "6860336e228e688bcc342ff1"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:24:46.867Z"
+  },
+  "input_sentence": "Pdiddy ___ finished producing several hit songs before he became famous.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"Pdiddy ___ finished producing several hit songs before he became famous.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Achte darauf, welche Zeitform die Handlung vor einer anderen ausdrückt. Verwende das Past Perfect mit „had“ plus dem Past Participle eines unregelmäßigen Verbs."
+},
+{
+  "_id": {
+    "$oid": "6860354c228e688bcc343002"
+  },
+  "timestamp": {
+    "$date": "2025-06-28T20:32:44.260Z"
+  },
+  "input_sentence": "She _______ ____ cooking dinner for two hours before her guests arrived.",
+  "openai_prompt": "Gib eine strukturierte Hilfestellung für folgenden Lückentext:\n\n\"She _______ ____ cooking dinner for two hours before her guests arrived.\"\n\n- Gib **keine** Lösung an.\n- Verwende maximal 2 kurze Sätze.\n- Falls möglich, gib allgemeine Tipps zur Grammatik.\n- Falls ein unregelmäßiges Verb zu verwenden ist, erwähne dies (ohne das Verb zu nennen).\n\nAntwort (nur der Hinweistext):",
+  "openai_response": "Überlege, welche Zeitform eine Handlung beschreibt, die vor einem bestimmten Zeitpunkt in der Vergangenheit andauerte. Achte darauf, dass das Verb im Past Perfect Continuous stehen sollte; dabei wird ein Hilfsverb im Past Perfect mit der -ing-Form eines Verbs kombiniert. Unregelmäßige Verben können die Bildung der Vergangenheitsform beeinflussen."
+}]
