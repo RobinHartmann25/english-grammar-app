@@ -16,7 +16,7 @@ ROR: <https://ror.org/01xzwj424>
 
 ## Datensatz
 
-Es wurden 9 Testdurchläufe mit dem entwickelten Prototypen mit insgesamt 8 Testpersonen gemacht. Darüber hinaus wurde von jeder Person ein Fragebogen ausgefüllt. Die Logdaten sowie die Fragebögen sind in diesem Github-Verzeichnis entahlten. 
+Es wurden 9 Testdurchläufe mit dem entwickelten Prototypen mit insgesamt 8 Testpersonen gemacht. Darüber hinaus wurde von jeder Person ein Fragebogen ausgefüllt. Die Logdaten sowie die Fragebögen sind in diesem Github-Verzeichnis enthalten. 
 
 **Sprache:** Deutsch.
 
