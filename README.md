@@ -6,7 +6,7 @@
 Robin Hartmann
 Masterstudiengang Wirtschaftskommunikation
 
-**Dozentin**
+**Dozentin:**
 Frau Prof. Dr. Simbeck
 Kontaktadresse: Katharina.Simbeck@HTW-Berlin.de
 
