@@ -2,7 +2,7 @@
 
 ## Beteiligte Personen
 
-**Autor**
+**Autor:**
 Robin Hartmann
 Masterstudiengang Wirtschaftsinformatik
 
