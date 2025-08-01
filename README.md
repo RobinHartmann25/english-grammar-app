@@ -1,12 +1,12 @@
 # Hausarbeit „KI-gestütztes Lernen: Automatisierte Aufgaben und interaktive Grammatikhilfen im Englischunterricht“
 
-## Autor*innen
+## Beteiligte Personen
 
-**Authorin:**
+**Autor**
 Robin Hartmann
 Masterstudiengang Wirtschaftsinformatik
 
-**Dozentin:**
+**Dozentin des Moduls Informatik und Gesellschaft:**
 Frau Prof. Dr. Simbeck
 Kontaktadresse: Katharina.Simbeck@HTW-Berlin.de
 
