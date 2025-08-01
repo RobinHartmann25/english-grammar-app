@@ -4,7 +4,7 @@
 
 **Authorin:**
 Robin Hartmann
-Masterstudiengang Wirtschaftskommunikation
+Masterstudiengang Wirtschaftsinformatik
 
 **Dozentin:**
 Frau Prof. Dr. Simbeck
