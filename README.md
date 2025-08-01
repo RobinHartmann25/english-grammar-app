@@ -44,4 +44,4 @@ Die Auswertung der Inhaltsanalysen liegen in Form von Excel-Tabellen vor. Dazu s
 
 **Ordner:** Anhang
 
-- Excel-Dateien der INhaltsanalysen sowie Log-Daten in JSON-Format.
+- Excel-Dateien der Inhaltsanalysen sowie Log-Daten in JSON-Format.
